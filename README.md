@@ -1,4 +1,4 @@
-# 📊 Power BI Projects 🚀
+# Power BI Projects 📊 
 This repository showcases a few Power BI projects I worked on when I started learning Power BI ✨ 
 These projects were built while following various online tutorials, helping me understand data visualization, DAX calculations, and dashboard design 🎯. Each project explores different datasets 📂 and analytical techniques to develop insightful reports.  
 
